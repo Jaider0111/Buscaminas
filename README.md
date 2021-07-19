@@ -11,7 +11,7 @@ las banderas te ayudaran a marcar los lugares donde crees que puedan haber minas
 Para poder juagar buscaminas necesitas tener instalado Java en su maquina, si no es asi, podra intalarlo mediante el enlace 
 [Instalar Java en su última version.](https://www.java.com/es/download/) 
 
-Al asegurarte de tener Java en tu PC desacrga el ejecutable que se encientra en el siguiente enlace [Buscaminas Ultima Versión]()
+Al asegurarte de tener Java en tu PC desacrga el ejecutable que se encientra en el siguiente enlace [Buscaminas Ultima Versión](https://github.com/Jaider0111/Buscaminas/releases/download/v1.0/buscaminas.jar)
 
 Para ejecutar el archivo, si estas en Windows bastara con darle doble click al ejecutable, o sin importar el sistema operativo deberas ir a una terminal
 dirigirte a la caroeta donde se encuntra el ejecutable buscaminas.jar y ejecutar:
